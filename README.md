@@ -20,7 +20,7 @@ sudo mv /boot/firmware/templates ~ && sudo mv /boot/firmware/style.css ~ && sudo
 
 <!--![IMG_0443](https://github.com/user-attachments/assets/f527a735-d376-4ac5-9011-068b7f93b9d1)-->
 
-<img src="https://github.com/user-attachments/assets/f527a735-d376-4ac5-9011-068b7f93b9d1" alt="<3" style="position:relative; width:33%; height:66;"/>
+<img src="https://github.com/user-attachments/assets/f527a735-d376-4ac5-9011-068b7f93b9d1" alt="<3" style="position:absolute; width:33%; height:66;"/>
 
 # Dark Auto-Tune
 In ~/.pwn/lib/python3.11/site-packages/pwnagotchi/plugins/default/auto-tune.py

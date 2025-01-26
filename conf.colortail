@@ -31,7 +31,7 @@ COLOR brightgreen
 ^.*(New).*$
 ^.*(AP).*$
 ^.*(Repopulating).*$
-^.*(Sending).*$
+^.*(sending).*$
 ^.*(association).*$
 ^.*(waiting).*$
 }
@@ -103,33 +103,3 @@ COLOR brightblue
 ^.*(duration).*$
 ^.*(slept_for).*$
 }
-
-
-# matches pwnlog names
-# ^.*(Thread).*$
-# ^.*(MainThread).*$
-# ^.*(INFO).*$
-# ^.*(ERROR).*$
-# ^.*(WARNING).*$
-# ^.*(epoch).*$
-# ^.*(handshake).*$
-# ^.*(handshakes).*$
-# ^.*(Handshake).*$
-# ^.*(Handshakes).*$
-# ^.*(blind).*$
-# ^.*(Active).*$
-# ^.*(Histo).*$
-# ^.*(assocs).*$
-# ^.*(Event).*$
-# ^.*(Polling).*$
-# ^.*().*$
-# ^.*(hops).*$
-# ^.*(missed).*$
-# ^.*(avg_bond).*$
-# ^.*(tot_bond).*$
-# ^.*(peers).*$
-# ^.*(active).*$
-# ^.*(inactive).*$
-# ^.*(bored).*$
-# ^.*(sad).*$
-

@@ -20,7 +20,7 @@ sudo mv /boot/firmware/templates ~ && sudo mv /boot/firmware/style.css ~ && sudo
 
 <!--![IMG_0443](https://github.com/user-attachments/assets/f527a735-d376-4ac5-9011-068b7f93b9d1)-->
 
-<img src="https://github.com/user-attachments/assets/f527a735-d376-4ac5-9011-068b7f93b9d1" alt="Alt Text" style="position:center; width:50%; height:auto;">
+<img src="https://github.com/user-attachments/assets/f527a735-d376-4ac5-9011-068b7f93b9d1" alt="<3" style="position:relative; width:50%; height:auto;"/>
 
 # Dark Auto-Tune
 
@@ -30,8 +30,10 @@ sudo mv /boot/firmware/templates ~ && sudo mv /boot/firmware/style.css ~ && sudo
 
 # Where:
 
-<img width="1017" alt="Screenshot 2025-01-26 at 9 13 15 AM" src="https://github.com/user-attachments/assets/73688345-9e39-4d1f-b1ff-d2940d29a243" />
+<img src="https://github.com/user-attachments/assets/73688345-9e39-4d1f-b1ff-d2940d29a243" alt="<3" style="position:relative; width:50%; height:auto;"/>
 
 # What it looks like:
 
-![IMG_0447](https://github.com/user-attachments/assets/8f18f35c-09e3-44f8-afe1-c3c300c67dee)
+<!--![IMG_0447](https://github.com/user-attachments/assets/8f18f35c-09e3-44f8-afe1-c3c300c67dee)-->
+
+<img src="https://github.com/user-attachments/assets/8f18f35c-09e3-44f8-afe1-c3c300c67dee" alt="<3" style="position:relative; width:50%; height:auto;"/>

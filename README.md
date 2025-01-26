@@ -20,7 +20,7 @@ sudo mv /boot/firmware/templates ~ && sudo mv /boot/firmware/style.css ~ && sudo
 
 <!--![IMG_0443](https://github.com/user-attachments/assets/f527a735-d376-4ac5-9011-068b7f93b9d1)-->
 
-<img src="https://github.com/user-attachments/assets/f527a735-d376-4ac5-9011-068b7f93b9d1" alt="<3" style="position:relative; flex: 1; width:33%; height:66;"/>
+<img src="https://github.com/user-attachments/assets/f527a735-d376-4ac5-9011-068b7f93b9d1" alt="<3" style="position:relative; width:33%; height:auto;"/>
 
 # Dark Auto-Tune
 In ~/.pwn/lib/python3.11/site-packages/pwnagotchi/plugins/default/auto-tune.py
@@ -39,3 +39,28 @@ On line 307 between </title> and <meta add the follow css:
 <!--![IMG_0447](https://github.com/user-attachments/assets/8f18f35c-09e3-44f8-afe1-c3c300c67dee)-->
 
 <img src="https://github.com/user-attachments/assets/8f18f35c-09e3-44f8-afe1-c3c300c67dee" alt="<3" style="position:relative; width:50%; height:auto;"/>
+
+# Colored PWNLOG:
+
+Make sure to add conf.colortail to the root of your sdcard just like above
+
+# On your pwnagotchi connected to the internet download colortail with:
+
+sudo apt-get install color tail
+
+# then run this just like above to copy the config file to the correct location:
+
+sudo mv /boot/firmware/conf.colortail ~ && sudo mv /etc/colortail/conf.colortail /boot/firmware && sudo mv ~/conf.colortail /etc/colortail && sync
+
+# Important for PWNLOG alias:
+
+in /etc/profile change tail to colortail for pwnlog alias
+
+# What it looks like:
+<!--![IMG_0452](https://github.com/user-attachments/assets/fc90304e-ca39-414a-a3ad-05779de90c17)-->
+
+<img src="https://github.com/user-attachments/assets/fc90304e-ca39-414a-a3ad-05779de90c17" alt="<3" style="position:relative; width:50%; height:auto;"/>
+
+<!--![IMG_0453](https://github.com/user-attachments/assets/61bebba6-21bc-4cec-b72b-efe74ce7e935)-->
+
+<img src="https://github.com/user-attachments/assets/61bebba6-21bc-4cec-b72b-efe74ce7e935" alt="<3" style="position:relative; width:50%; height:auto;"/>

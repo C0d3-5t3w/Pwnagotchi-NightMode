@@ -14,5 +14,3 @@ then copy and run the line of commands below and make sure the whole 1 line copp
 sudo mv /boot/firmware/templates ~ && sudo mv /boot/firmware/style.css ~ && sudo rm ~/.pwn/lib/python3.11/site-packages/pwnagotchi/ui/web/static/css/style.css && sudo rm ~/.pwn/lib/python3.11/site-packages/pwnagotchi/ui/web/templates && sudo mv ~/style.css ~/.pwn/lib/python3.11/site-packages/pwnagotchi/ui/web && sudo mv ~/templates ~/.pwn/lib/python3.11/site-packages/pwnagotchi/ui/web
 
 # What it looks like:
-
-![IMG_0443](https://github.com/user-attachments/assets/bf981448-cd32-40f8-9838-d01080ab75c1)

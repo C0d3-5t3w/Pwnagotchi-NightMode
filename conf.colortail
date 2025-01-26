@@ -46,8 +46,7 @@ COLOR yellow
 ^.*(Handshake).*$
 ^.*(Handshakes).*$
 ^.*(assocs).*$
-^.*(deauths).*$
-^.*(hops).*$     
+^.*(deauths).*$   
 ^.*(missed).*$
 ^.*(avg_bond).*$
 ^.*(tot_bond).*$

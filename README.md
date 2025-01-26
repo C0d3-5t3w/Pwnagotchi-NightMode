@@ -19,3 +19,17 @@ sudo mv /boot/firmware/templates ~ && sudo mv /boot/firmware/style.css ~ && sudo
 # What it looks like:
 
 ![IMG_0443](https://github.com/user-attachments/assets/f527a735-d376-4ac5-9011-068b7f93b9d1)
+
+# Dark Auto-Tune
+
+On line 307 between </title> and <meta add the follow css:
+
+<style>* {color: white; background-color: black;}</style>
+
+# Where:
+
+<img width="1017" alt="Screenshot 2025-01-26 at 9 13 15 AM" src="https://github.com/user-attachments/assets/73688345-9e39-4d1f-b1ff-d2940d29a243" />
+
+# What it looks like:
+
+![IMG_0447](https://github.com/user-attachments/assets/8f18f35c-09e3-44f8-afe1-c3c300c67dee)

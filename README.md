@@ -18,13 +18,15 @@ sudo mv /boot/firmware/templates ~ && sudo mv /boot/firmware/style.css ~ && sudo
 
 # What it looks like:
 
-![IMG_0443](https://github.com/user-attachments/assets/f527a735-d376-4ac5-9011-068b7f93b9d1)
+<!--![IMG_0443](https://github.com/user-attachments/assets/f527a735-d376-4ac5-9011-068b7f93b9d1)-->
+
+<img src="https://github.com/user-attachments/assets/f527a735-d376-4ac5-9011-068b7f93b9d1" alt="Alt Text" style="position:center; width:50%; height:auto;">
 
 # Dark Auto-Tune
 
-On line 307 between </title> and <meta add the follow css:
+# On line 307 between </title> and <meta add the follow css:
 
-<style>* {color: white; background-color: black;}</style>
+# <style>* {color: white; background-color: black;}</style>
 
 # Where:
 

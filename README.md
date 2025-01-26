@@ -2,6 +2,8 @@
 
 Just changes some colors to make the web ui dark.
 
+# * The comand below requires you to have an up to date file structure from jayofelony's pwnagotchi fork. *
+
 # HOW TO:
 
 First download this repository.

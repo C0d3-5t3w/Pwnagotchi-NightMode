@@ -1,6 +1,6 @@
 # Pwnagotchi-NightMode:
 
-Just changes some colors to make the web ui dark because i dont like so much white..
+Just changes some colors to make the web ui dark because i dont like so much white.
 
 # * The comand below requires you to have an up to date file structure from jayofelony's pwnagotchi fork. *
 

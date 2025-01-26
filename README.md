@@ -4,10 +4,11 @@ Just changes some colors to make the web ui dark.
 
 # HOW TO:
 
-First download this repository. 
-Place style.css and the templates folder in the boot partition of your 
-sd card with a reader, then pop it in your pi and boot up your pwnagotchi, 
-then copy and run the line of commands below and make sure the whole 1 line coppies:
+First download this repository.
+
+Place style.css and the templates folder in the boot partition of your sd card with a reader. 
+Then pop it in your pi and boot up your pwnagotchi. 
+Copy and run the line of commands below making sure the whole 1 line coppies.
 
 # Commands: 
 

@@ -8,6 +8,9 @@ https://github.com/jayofelony/pwnagotchi.git
 
 # HOW TO:
 
+DISCLAIMER- I am not responsible for the use of and distribution of any pwnagotchi product and i do not claim any responsibility for you messing up your files.
+everything below worked on multiple fresh installs.
+
 First download this repository.
 
 Place style.css and the templates folder in the boot partition of your sd card with a reader. 

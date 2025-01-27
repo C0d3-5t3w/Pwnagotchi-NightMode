@@ -2,6 +2,8 @@
 
 Just changes some colors to make the web ui dark because i dont like so much white.
 
+i butchered the code so please dont try to copy this to the main pwnagotchi repository.
+
 # * The comands below requires you to have an up to date file structure from jayofelony's pwnagotchi fork. *
 
 https://github.com/jayofelony/pwnagotchi.git

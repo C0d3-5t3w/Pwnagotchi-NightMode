@@ -2,7 +2,9 @@
 
 Just changes some colors to make the web ui dark because i dont like so much white.
 
-# * The comand below requires you to have an up to date file structure from jayofelony's pwnagotchi fork. *
+# * The comands below requires you to have an up to date file structure from jayofelony's pwnagotchi fork. *
+
+https://github.com/jayofelony/pwnagotchi.git
 
 # HOW TO:
 

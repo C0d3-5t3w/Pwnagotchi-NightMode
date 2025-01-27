@@ -28,7 +28,7 @@ div.status {
 }
 
 a.read {
-    color: #ffffff !important;
+    color: #777 !important;
 }
 
 p.messagebody {
@@ -38,8 +38,8 @@ p.messagebody {
 li.navitem {
     width: 16.66% !important;
     clear: none !important;
+    color: white;
     background-color: black;
-    color: #ffffff;
 }
 
 /* Custom indentations are needed because the length of custom labels differs from
@@ -74,14 +74,13 @@ li.navitem {
     position: relative;
     flex: 1;
     width: 100%;
-/*    display: flex;*/
     flex-wrap: wrap;
     justify-content: space-around;
     background-color: black;
     color: #ffffff;
 }
 
-#bontainer {
+#plugincontainer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;

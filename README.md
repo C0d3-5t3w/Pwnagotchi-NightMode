@@ -64,7 +64,7 @@ Make sure to add conf.colortail to the root of your sdcard just like above
 
 sudo apt-get install color tail
 
-# then run this just like above to copy the config file to the correct location:
+# Then run this just like above to copy the config file to the correct location:
 
 sudo mv /boot/firmware/conf.colortail ~ && sudo mv /etc/colortail/conf.colortail /boot/firmware && sudo mv ~/conf.colortail /etc/colortail && sync
 

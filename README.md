@@ -65,11 +65,11 @@ Make sure to add pwnagotchi.png to the root of your sdcard just like above
 
 sudo mv /boot/firmware/pwnagotchi.png ~ && sudo mv ~/.pwn/lib/python3.11/site-packages/pwnagotchi/ui/web/static/images/pwnagotchi.png /boot/firmware && sudo mv ~/pwnagotchi.png ~/.pwn/lib/python3.11/site-packages/pwnagotchi/ui/web/static/images && sync && pwnkill
 
-# Colored PWNLOG:
+# Colored pwnlog:
 
 Make sure to add conf.colortail to the root of your sdcard just like above
 
-# On your pwnagotchi connected to the internet download colortail with:
+On your pwnagotchi connected to the internet download colortail with:
 
 sudo apt-get install color tail
 
@@ -77,11 +77,7 @@ sudo apt-get install color tail
 
 sudo mv /boot/firmware/conf.colortail ~ && sudo mv /etc/colortail/conf.colortail /boot/firmware && sudo mv ~/conf.colortail /etc/colortail && sync
 
-# Important for PWNLOG alias:
-
-in /etc/profile change tail to colortail for pwnlog alias
-
-# Where:
+# Important for pwnlog alias, in /etc/profile change "tail" to "colortail" for pwnlog alias:
 
 <!--![IMG_0463](https://github.com/user-attachments/assets/f133b284-0379-472e-a2e8-ee6db0628f09)-->
 
@@ -95,5 +91,15 @@ in /etc/profile change tail to colortail for pwnlog alias
 <!--![IMG_0453](https://github.com/user-attachments/assets/61bebba6-21bc-4cec-b72b-efe74ce7e935)-->
 
 <img src="https://github.com/user-attachments/assets/61bebba6-21bc-4cec-b72b-efe74ce7e935" alt="<3" style="position:relative; width:50%; height:auto;"/>
+
+# We could also pipe pwnlog through color tail:
+
+On your pwnagotchi connected to the internet download lolcat with:
+
+sudo apt-get install color tail
+
+# Add "| lolcat" to the end of pwnlogs alias in /etc/profile here:
+
+# What it looks like: 🤢
 
 # ENJOY!!! if you have any issues find and @ me in the pwnagotchi unofficial discord: https://discord.gg/wBgZPn6M

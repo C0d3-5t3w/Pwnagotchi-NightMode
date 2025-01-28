@@ -14,7 +14,7 @@ DISCLAIMER- I am not responsible for the use of and distribution of any pwnagotc
 and i do not claim any responsibility for you messing up your files.
 everything below worked on multiple fresh installs of jayofelony's fork.
 
-First download this repository.
+!! First download this repository. !!
 
 Place style.css and the templates folder in the boot partition of your sd card with a reader. 
 Then pop it in your pi and boot up your pwnagotchi. 
@@ -38,7 +38,8 @@ sudo mv /boot/firmware/templates ~ && sudo mv /boot/firmware/style.css ~ && sudo
 
 <img src="https://github.com/user-attachments/assets/845d1916-edb8-4c74-b5f4-6e7c3fb02ea9" alt="<3" style="position:relative; width:33%; height:auto;"/>
 
-# Dark Auto-Tune
+# Dark Auto-Tune:
+
 In ~/.pwn/lib/python3.11/site-packages/pwnagotchi/plugins/default/auto-tune.py
 On line 307 between </title> and <meta add the follow css:
 

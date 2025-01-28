@@ -16,7 +16,7 @@ Plugins
     visibility: hidden;
     width: 200px;
     background-color: rgb(81, 65, 79, 0.75);
-    color: #fff;
+    color: #ffffff;
     text-align: center;
     border-radius: 10px;
     border: 2px solid black;
@@ -73,7 +73,7 @@ $(function(){
 });
 {% endblock %}
 {% block content %}
-<div id="plugincontainer">
+<div id="plugins-container">
     {% for name in database.keys() | sort %}
         {% set has_info = name in loaded and loaded[name].__description__ is defined %}
         <div class="plugins-box">

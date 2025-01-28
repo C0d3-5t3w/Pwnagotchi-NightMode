@@ -87,4 +87,4 @@ in /etc/profile change tail to colortail for pwnlog alias
 
 <img src="https://github.com/user-attachments/assets/61bebba6-21bc-4cec-b72b-efe74ce7e935" alt="<3" style="position:relative; width:50%; height:auto;"/>
 
-# ENJOY!!! if you have any issues find and @ me at: https://discord.gg/wBgZPn6M
+# ENJOY!!! if you have any issues find and @ me at the pwnagotchi unofficial discord: https://discord.gg/wBgZPn6M

@@ -100,6 +100,14 @@ sudo apt-get install color tail
 
 # Add "| lolcat" to the end of pwnlogs alias in /etc/profile here:
 
+<!--![IMG_0468](https://github.com/user-attachments/assets/49a28923-b5c3-4bfb-9000-3a5617287e8a)-->
+
+<img src="https://github.com/user-attachments/assets/49a28923-b5c3-4bfb-9000-3a5617287e8a" alt="<3" style="position:relative; width:50%; height:auto;"/>
+
 # What it looks like: 🤢
+
+<!--![IMG_0467](https://github.com/user-attachments/assets/7eb713e4-0be1-46f0-af32-b4a94ba86d72)-->
+
+<img src="https://github.com/user-attachments/assets/7eb713e4-0be1-46f0-af32-b4a94ba86d72" alt="<3" style="position:relative; width:50%; height:auto;"/>
 
 # ENJOY!!! if you have any issues find and @ me in the pwnagotchi unofficial discord: https://discord.gg/wBgZPn6M

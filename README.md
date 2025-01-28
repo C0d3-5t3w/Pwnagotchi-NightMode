@@ -72,6 +72,12 @@ sudo mv /boot/firmware/conf.colortail ~ && sudo mv /etc/colortail/conf.colortail
 
 in /etc/profile change tail to colortail for pwnlog alias
 
+# Where:
+
+<!--![IMG_0463](https://github.com/user-attachments/assets/f133b284-0379-472e-a2e8-ee6db0628f09)-->
+
+<img src="https://github.com/user-attachments/assets/f133b284-0379-472e-a2e8-ee6db0628f09" alt="<3" style="position:relative; width:50%; height:auto;"/>
+
 # What it looks like:
 <!--![IMG_0452](https://github.com/user-attachments/assets/fc90304e-ca39-414a-a3ad-05779de90c17)-->
 

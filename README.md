@@ -57,6 +57,14 @@ On line 307 between </title> and <meta add the follow css:
 
 <img src="https://github.com/user-attachments/assets/8f18f35c-09e3-44f8-afe1-c3c300c67dee" alt="<3" style="position:relative; width:50%; height:auto;"/>
 
+# Black app logo:
+
+Make sure to add pwnagotchi.png to the root of your sdcard just like above
+
+# Run this:
+
+sudo mv /boot/firmware/pwnagotchi.png ~ && sudo mv ~/.pwn/lib/python3.11/site-packages/pwnagotchi/ui/web/static/images/pwnagotchi.png /boot/firmware && sudo mv ~/pwnagotchi.png ~/.pwn/lib/python3.11/site-packages/pwnagotchi/ui/web/static/images && sync && pwnkill
+
 # Colored PWNLOG:
 
 Make sure to add conf.colortail to the root of your sdcard just like above
@@ -65,7 +73,7 @@ Make sure to add conf.colortail to the root of your sdcard just like above
 
 sudo apt-get install color tail
 
-# Then run this just like above to copy the config file to the correct location:
+# Run this:
 
 sudo mv /boot/firmware/conf.colortail ~ && sudo mv /etc/colortail/conf.colortail /boot/firmware && sudo mv ~/conf.colortail /etc/colortail && sync
 

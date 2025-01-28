@@ -111,3 +111,7 @@ sudo apt-get install color tail
 <img src="https://github.com/user-attachments/assets/7eb713e4-0be1-46f0-af32-b4a94ba86d72" alt="<3" style="position:relative; width:50%; height:auto;"/>
 
 # ENJOY!!! if you have any issues find and @ me in the pwnagotchi unofficial discord: https://discord.gg/wBgZPn6M
+
+# If you want to give me a tip i accept monero:
+
+462ZrXQjmJnD9hpp55ckEMccGGrLrknSFSxesChuPz2FJ4MeYyyaVkYVrynU1tn2ZgSJGJBHm9ZAMA2jzck5RWhK2aUQKA2

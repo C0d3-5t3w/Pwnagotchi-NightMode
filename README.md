@@ -86,3 +86,5 @@ in /etc/profile change tail to colortail for pwnlog alias
 <!--![IMG_0453](https://github.com/user-attachments/assets/61bebba6-21bc-4cec-b72b-efe74ce7e935)-->
 
 <img src="https://github.com/user-attachments/assets/61bebba6-21bc-4cec-b72b-efe74ce7e935" alt="<3" style="position:relative; width:50%; height:auto;"/>
+
+# ENJOY!!! if you have any issues email me at: 5t3wmusic@proton.me

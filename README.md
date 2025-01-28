@@ -28,11 +28,15 @@ sudo mv /boot/firmware/templates ~ && sudo mv /boot/firmware/style.css ~ && sudo
 
 <!--![IMG_0443](https://github.com/user-attachments/assets/f527a735-d376-4ac5-9011-068b7f93b9d1)-->
 
-<img src="https://github.com/user-attachments/assets/f527a735-d376-4ac5-9011-068b7f93b9d1" alt="<3" style="position:relative; width:33%; height:auto;"/>
+<!--<img src="https://github.com/user-attachments/assets/f527a735-d376-4ac5-9011-068b7f93b9d1" alt="<3" style="position:relative; width:33%; height:auto;"/>-->
 
 <!--![IMG_0461](https://github.com/user-attachments/assets/ea103e58-24d6-43ef-9748-9d7b3a2c6e18)-->
 
 <img src="https://github.com/user-attachments/assets/ea103e58-24d6-43ef-9748-9d7b3a2c6e18" alt="<3" style="position:relative; width:33%; height:auto;"/>
+
+<!--![IMG_0462](https://github.com/user-attachments/assets/845d1916-edb8-4c74-b5f4-6e7c3fb02ea9)-->
+
+<img src="https://github.com/user-attachments/assets/845d1916-edb8-4c74-b5f4-6e7c3fb02ea9" alt="<3" style="position:relative; width:33%; height:auto;"/>
 
 # Dark Auto-Tune
 In ~/.pwn/lib/python3.11/site-packages/pwnagotchi/plugins/default/auto-tune.py

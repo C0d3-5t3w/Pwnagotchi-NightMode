@@ -2,8 +2,6 @@
 
 Just changes some colors to make the web ui dark because i dont like so much white.
 
-i butchered the code so please dont try to copy this to the main pwnagotchi repository.
-
 # * The comands below requires you to have an up to date file structure from jayofelony's pwnagotchi fork. *
 
 https://github.com/jayofelony/pwnagotchi.git
@@ -59,11 +57,17 @@ On line 307 between </title> and <meta add the follow css:
 
 # Black app logo:
 
-Make sure to add pwnagotchi.png to the root of your sdcard just like above
+Make sure to add pwnagotchi.png to the root of your sdcard just like above.
 
 # Run this:
 
 sudo mv /boot/firmware/pwnagotchi.png ~ && sudo mv ~/.pwn/lib/python3.11/site-packages/pwnagotchi/ui/web/static/images/pwnagotchi.png /boot/firmware && sudo mv ~/pwnagotchi.png ~/.pwn/lib/python3.11/site-packages/pwnagotchi/ui/web/static/images && sync && pwnkill
+
+# What it looks like:
+
+<!--![IMG_0508](https://github.com/user-attachments/assets/a2fc419a-b57b-4377-9c0d-6c409d71a852)-->
+
+<img src="https://github.com/user-attachments/assets/a2fc419a-b57b-4377-9c0d-6c409d71a852" alt="<3" style="position:relative; width:50%; height:auto;"/>
 
 # Colored pwnlog:
 
